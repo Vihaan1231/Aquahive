@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "aquahive",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-p", "8742", "-s", "."],
+      "port": 8742
+    }
+  ]
+}
